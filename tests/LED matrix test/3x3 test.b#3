@@ -1704,10 +1704,10 @@ design rules under a new name.</description>
 <contactref element="C9" pad="2"/>
 <contactref element="JP1" pad="4"/>
 <polygon width="1.016" layer="1">
-<vertex x="33" y="68"/>
-<vertex x="33" y="24"/>
-<vertex x="67" y="24"/>
-<vertex x="67" y="68"/>
+<vertex x="19" y="68"/>
+<vertex x="19" y="24"/>
+<vertex x="70" y="24"/>
+<vertex x="70" y="68"/>
 </polygon>
 <contactref element="C10" pad="2"/>
 <wire x1="25" y1="62.05" x2="25" y2="59.03" width="1.016" layer="1"/>
@@ -1720,7 +1720,6 @@ design rules under a new name.</description>
 <wire x1="52.095" y1="52.035" x2="52.095" y2="50.82" width="1.016" layer="1"/>
 <wire x1="64.28" y1="53.04" x2="64.97" y2="52.35" width="1.016" layer="1"/>
 <wire x1="64.97" y1="52.35" x2="64.97" y2="50.81" width="1.016" layer="1"/>
-<wire x1="51.09" y1="53.04" x2="49.34" y2="59.96" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$3">
 <contactref element="U$4" pad="3"/>
